@@ -20,4 +20,4 @@ Python · SQL · R · QGIS · ArcGIS · Google Earth Engine · Power BI · EU Ta
 ## Connect
 [LinkedIn](linkedin.com/in/iying-hsu)
 
-Email: iying.hsu.iy@gmail.com
+[iying.hsu.iy@gmail.com](mailto:iying.hsu.iy@gmail.com)
