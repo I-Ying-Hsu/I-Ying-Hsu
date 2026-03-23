@@ -20,6 +20,6 @@ A physical risk prototype using WRI Aqueduct flood data to model LGD migration f
 Python · SQL · R · QGIS · ArcGIS · Google Earth Engine · Power BI · EU Taxonomy · CSRD
 
 ## Connect
-LinkedIn: (linkedin.com/in/iying-hsu)
+[LinkedIn](linkedin.com/in/iying-hsu)
 
 Email: iying.hsu.iy@gmail.com
