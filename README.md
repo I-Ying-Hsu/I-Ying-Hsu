@@ -1,8 +1,6 @@
 # Hi, I am I-Ying Hsu
 
-Climate Risk and ESG Data Analyst based in Utrecht, Netherlands.
-
-I build quantitative models that turn climate and ESG data into financial decisions.
+I build quantitative models that turn climate and ESG data into financial decisions. Based in Utrecht, Netherlands
 
 ## What I work on
 
